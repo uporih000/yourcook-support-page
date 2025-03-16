@@ -31,7 +31,7 @@
 
 ## 5. ユーザーの権利
 
-- 当アプリは、Firebase Analytics、Google AdMob、ChatGPT API（OpenAI API）などのサードパーティサービスを利用してデータを収集しています。  
+- 当アプリは、Firebase Analytics、Google AdMob、ChatGPT API（OpenAI API）、Pixabayなどのサードパーティサービスを利用してデータを収集しています。  
 これらのデータは匿名化または集計処理されており、個別のユーザーがデータの閲覧、修正、削除を直接行うことはできません。
 
 ただし、ユーザーがデータ収集を停止したい場合、以下の方法を提供します：
@@ -44,6 +44,7 @@
 -- Firebase（https://policies.google.com/privacy?hl=ja）
 -- Google Analytics（https://policies.google.com/privacy?hl=ja）
 -- ChatGPT API	(https://openai.com/ja-JP/policies/row-privacy-policy/)
+-- Pixabay API (https://pixabay.com/service/privacy/)
 
 ## 7. セキュリティ
 
